@@ -55,7 +55,7 @@ Manual-Testing-Portfolio/
 - Attention to Detail
 
 ## 🔗 Connect
-[LinkedIn: https://www.linkedin.com/in/s-devanathan/]([https://www.linkedin.com/in/devanathan-sekar-5a606b341/](https://www.linkedin.com/in/s-devanathan/))
+[LinkedIn: https://www.linkedin.com/in/s-devanathan/](https://www.linkedin.com/in/s-devanathan/)
 [Email: devanathansekar@gmail.com](mailto:devanathansekar@gmail.com)
 
 ---
